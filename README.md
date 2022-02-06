@@ -1,5 +1,5 @@
-# Database-Assignment
-(2020년 3-1) 데이터베이스 과제
+# Database Assignment
+(2020 3-1) 데이터베이스 과제
 
 ## 개발 환경
 * 개발 환경 : Pycharm IDE (Project Interpreter : Python3.7), MariaDB 10.4.11 (phpMyAdmin)
